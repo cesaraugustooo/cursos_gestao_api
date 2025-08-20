@@ -24,7 +24,7 @@ class CursoRequest extends FormRequest
         return [
 			'titulo' => 'required|string',
 			'descricao' => 'required|string',
-			'preco' => 'required',
+			'preco' => 'required|decimal:2',
 			'status' => 'required|in:rascunho,publicado',
         ];
     }
