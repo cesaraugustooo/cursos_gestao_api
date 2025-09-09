@@ -12,7 +12,7 @@ Este projeto é uma **API REST desenvolvida em Laravel** para gerenciamento de c
 
 ## 🚀 Tecnologias Utilizadas
 - PHP 8.x
-- Laravel 10.x
+- Laravel 12.x
 - MySQL
 - Laravel Sanctum (autenticação via token)
 - Composer
